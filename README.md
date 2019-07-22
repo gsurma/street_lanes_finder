@@ -15,22 +15,31 @@ Computer Vision approach to the street lanes detection problem.
 <br>
 <img src="assets/grayscale.png">
 
+---
 
 2. Blur
 <br>
 <img src="assets/blur.png">
 
+---
+
 3. Canny
 <br>
 <img src="assets/canny.png">
+
+---
 
 4. Region Of Interest
 <br>
 <img src="assets/roi.png">
 
+---
+
 4. Hough Lines
 <br>
 <img src="assets/lines.png">
+
+---
 
 5. Combined Images
 <br>

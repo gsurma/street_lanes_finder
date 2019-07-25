@@ -8,6 +8,8 @@ Computer Vision approach to the street lanes detection problem.
 
 <img src="assets/demo.gif">
 
+Check out corresponding Medium article: [Street Lanes Finder - Detecting Street Lanes for Self-Driving Cars 🚗](https://towardsdatascience.com/street-lanes-finder-detecting-street-lanes-for-self-driving-cars-fe069ec5a22d)
+
 ## How does it work?
 
 
